@@ -3,6 +3,6 @@ pandas==2.1.1
 numpy==1.24.4
 scikit-learn==1.3.0
 joblib==1.3.2
-setuptools wheel
+setuptools wheel==24.3.1
 xgboost==1.7.6  # If you're using XGB models
 
